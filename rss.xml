@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CogScenography]]></title>
+        <description><![CDATA[CogScenography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 15:35:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>'Towards a Cognitive Scenography: Applications of Cognitive Science in Scenographic Reception and Processes' is a PhD project by artist- researcher Xristina Penna.</p>]]></description>
+            <link>undefinedtowards-a-cognitive-scenography-applications-of-cognitive/index.html</link>
+            <guid isPermaLink="false">7072dc74-22f9-4242-b159-6b2ca99ffa07</guid>
+            <pubDate>Sun, 17 Apr 2016 15:34:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
