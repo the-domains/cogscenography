@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "'Towards a Cognitive Scenography: Applications of Cognitive Science in Scenographic Reception and Processes' is a PhD project by artist- researcher Xristina Penna."
-datePublished: '2016-06-03T16:32:41.585Z'
-dateModified: '2016-06-03T16:32:38.225Z'
+datePublished: '2016-06-03T16:47:19.870Z'
+dateModified: '2016-06-03T16:33:32.099Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-towards-a-cognitive-scenography-applications-of-cognitive.md
