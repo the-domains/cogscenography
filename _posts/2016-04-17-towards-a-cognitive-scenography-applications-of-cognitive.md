@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T00:37:29.500Z'
-dateModified: '2016-06-04T00:35:44.165Z'
+datePublished: '2016-06-04T19:45:54.655Z'
+dateModified: '2016-06-04T19:45:20.350Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-towards-a-cognitive-scenography-applications-of-cognitive.md
@@ -18,4 +18,3 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/258b2b76-9038-4aa3-b7da-909230e955ae.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126329ff08562f60cf3214b5b24d994dd46df0dd.jpg)
