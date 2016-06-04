@@ -4,12 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The workshop explores the ways in which the audience/participants converse through the act of making using a number of simple materials (such as wool, paper, watercolours) and by situating them within a dynamic scenographic system-game. '
-datePublished: '2016-06-03T16:27:37.718Z'
-dateModified: '2016-06-03T16:17:26.038Z'
+description: >-
+  The workshop explores the ways in which the audience/participants converse
+  through the act of making using a number of simple materials (such as wool,
+  paper, watercolours) and by situating them within a dynamic scenographic
+  system-game. 
+datePublished: '2016-06-04T00:10:50.494Z'
+dateModified: '2016-06-04T00:09:52.648Z'
 title: ''
 author: []
-sourcePath: _posts/2016-04-15-work-space-i-a-scenographic-workshop-on-consciousness-is-a.md
+sourcePath: >-
+  _posts/2016-04-15-work-space-i-a-scenographic-workshop-on-consciousness-is-a.md
 authors: []
 publisher: null
 starred: false
